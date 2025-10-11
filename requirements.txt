@@ -1,0 +1,6 @@
+streamlit==1.49.1
+pandas>=2.2
+plotly>=5.20
+boto3==1.40.18
+botocore==1.40.18
+python-dotenv>=1.0
